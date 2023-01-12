@@ -8,7 +8,7 @@ import { login } from '../../../redux/features/authSlice';
 import * as api from '../../../api/authAPI';
 
 import Alert, { AlertProps } from '../../Common/Alert/Alert';
-import TextField from '../../Form/TextField/TextField';
+import TextField from '../../Common/Form/TextField/TextField';
 
 import './EmailLogin.css';
 
